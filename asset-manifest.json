@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/React-Sample/static/css/main.f9fadfa4.chunk.css",
+    "main.js": "/React-Sample/static/js/main.c5dd761b.chunk.js",
+    "main.js.map": "/React-Sample/static/js/main.c5dd761b.chunk.js.map",
+    "runtime-main.js": "/React-Sample/static/js/runtime-main.a5c09d7d.js",
+    "runtime-main.js.map": "/React-Sample/static/js/runtime-main.a5c09d7d.js.map",
+    "static/css/2.accba2c8.chunk.css": "/React-Sample/static/css/2.accba2c8.chunk.css",
+    "static/js/2.cf95ba39.chunk.js": "/React-Sample/static/js/2.cf95ba39.chunk.js",
+    "static/js/2.cf95ba39.chunk.js.map": "/React-Sample/static/js/2.cf95ba39.chunk.js.map",
+    "index.html": "/React-Sample/index.html",
+    "precache-manifest.b2bba9ad4cdd8ba28f66ceda42ea9a11.js": "/React-Sample/precache-manifest.b2bba9ad4cdd8ba28f66ceda42ea9a11.js",
+    "service-worker.js": "/React-Sample/service-worker.js",
+    "static/css/2.accba2c8.chunk.css.map": "/React-Sample/static/css/2.accba2c8.chunk.css.map",
+    "static/css/main.f9fadfa4.chunk.css.map": "/React-Sample/static/css/main.f9fadfa4.chunk.css.map",
+    "static/js/2.cf95ba39.chunk.js.LICENSE.txt": "/React-Sample/static/js/2.cf95ba39.chunk.js.LICENSE.txt",
+    "static/media/airbus.43b31528.svg": "/React-Sample/static/media/airbus.43b31528.43b31528.svg",
+    "static/media/apple.5ef6a897.svg": "/React-Sample/static/media/apple.5ef6a897.5ef6a897.svg",
+    "static/media/dekra.da3f480e.svg": "/React-Sample/static/media/dekra.da3f480e.da3f480e.svg",
+    "static/media/google-2015.svg": "/React-Sample/static/media/google-2015.cc8c0725.svg",
+    "static/media/hubspot.d27874a7.svg": "/React-Sample/static/media/hubspot.d27874a7.d27874a7.svg",
+    "static/media/join.svg": "/React-Sample/static/media/join.a768e74f.svg",
+    "static/media/meeting.svg": "/React-Sample/static/media/meeting.3900bd89.svg",
+    "static/media/profit.svg": "/React-Sample/static/media/profit.f44dbbaa.svg",
+    "static/media/resume.svg": "/React-Sample/static/media/resume.b8af1e94.svg",
+    "static/media/search.svg": "/React-Sample/static/media/search.3902ddb2.svg",
+    "static/media/staff.svg": "/React-Sample/static/media/staff.6433f9c4.svg",
+    "static/media/statistics.svg": "/React-Sample/static/media/statistics.987327a2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5c09d7d.js",
+    "static/css/2.accba2c8.chunk.css",
+    "static/js/2.cf95ba39.chunk.js",
+    "static/css/main.f9fadfa4.chunk.css",
+    "static/js/main.c5dd761b.chunk.js"
+  ]
+}
