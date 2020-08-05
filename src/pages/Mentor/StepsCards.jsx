@@ -29,23 +29,27 @@ function StepsCards (props) {
             
             <div className="columns">
                 <div className="column">
-                    <h3 className="has-text-centered has-text-blue is-size-4 has-text-weight-bold title">You Apply</h3>
-                    <p className="has-text-centered is-size-5">
+                    <h3 className="has-text-centered has-text-blue
+                    is-size-6-touch is-size-5-tablet is-size-4-widescreen
+                    has-text-weight-bold title">You Apply</h3>
+                    <p className="has-text-centered is-size-6">
                         Fill out the application or reach out directly to us if you have any questions.
                     </p>
                 </div>
                 <div className="column"></div>
                 <div className="column">
-                    <h3 className="has-text-centered has-text-blue is-size-4 has-text-weight-bold title">Youe profile is reviewed</h3>
-                    <p className="has-text-centered is-size-5">
+                    <h3 className="has-text-centered has-text-blue 
+                    is-size-6-touch is-size-5-tablet is-size-4-widescreen has-text-weight-bold title">Youe profile is reviewed</h3>
+                    <p className="has-text-centered is-size-6">
                         If your profile matches our criteria we will give you a call to discuss further steps.
                     </p>
                 </div>
 
                 <div className="column"></div>
                 <div className="column">
-                    <h3 className="has-text-centered has-text-blue is-size-4 has-text-weight-bold title">You Mentor</h3>
-                    <p className="has-text-centered is-size-5">
+                    <h3 className="has-text-centered has-text-blue 
+                    is-size-6-touch is-size-5-tablet is-size-4-widescreenhas-text-weight-bold title">You Mentor</h3>
+                    <p className="has-text-centered is-size-6">
                         Once enrolled in the mentorship program, log in to see a personalised dashboard with the students.
                     </p>
                 </div>
@@ -63,7 +67,8 @@ function RenderCard(props) {
             </div>
 
             <div className="column is-12">
-                <h3 className="is-size-3 is-uppercase has-text-blue has-text-weight-bold has-text-centered heading">
+                <h3 className="
+                    is-size-5-touch is-size-4-tablet is-size-3-widescreen is-uppercase has-text-blue has-text-weight-bold has-text-centered heading">
                     {props.heading}
                 </h3>
             </div>
