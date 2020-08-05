@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/React-Sample/static/css/main.f9fadfa4.chunk.css",
-    "main.js": "/React-Sample/static/js/main.c5dd761b.chunk.js",
-    "main.js.map": "/React-Sample/static/js/main.c5dd761b.chunk.js.map",
+    "main.js": "/React-Sample/static/js/main.58834be2.chunk.js",
+    "main.js.map": "/React-Sample/static/js/main.58834be2.chunk.js.map",
     "runtime-main.js": "/React-Sample/static/js/runtime-main.a5c09d7d.js",
     "runtime-main.js.map": "/React-Sample/static/js/runtime-main.a5c09d7d.js.map",
     "static/css/2.accba2c8.chunk.css": "/React-Sample/static/css/2.accba2c8.chunk.css",
-    "static/js/2.cf95ba39.chunk.js": "/React-Sample/static/js/2.cf95ba39.chunk.js",
-    "static/js/2.cf95ba39.chunk.js.map": "/React-Sample/static/js/2.cf95ba39.chunk.js.map",
+    "static/js/2.55a1b9d0.chunk.js": "/React-Sample/static/js/2.55a1b9d0.chunk.js",
+    "static/js/2.55a1b9d0.chunk.js.map": "/React-Sample/static/js/2.55a1b9d0.chunk.js.map",
     "index.html": "/React-Sample/index.html",
-    "precache-manifest.b2bba9ad4cdd8ba28f66ceda42ea9a11.js": "/React-Sample/precache-manifest.b2bba9ad4cdd8ba28f66ceda42ea9a11.js",
+    "precache-manifest.16ebc712a9001ca708d92335f75912b0.js": "/React-Sample/precache-manifest.16ebc712a9001ca708d92335f75912b0.js",
     "service-worker.js": "/React-Sample/service-worker.js",
     "static/css/2.accba2c8.chunk.css.map": "/React-Sample/static/css/2.accba2c8.chunk.css.map",
     "static/css/main.f9fadfa4.chunk.css.map": "/React-Sample/static/css/main.f9fadfa4.chunk.css.map",
-    "static/js/2.cf95ba39.chunk.js.LICENSE.txt": "/React-Sample/static/js/2.cf95ba39.chunk.js.LICENSE.txt",
+    "static/js/2.55a1b9d0.chunk.js.LICENSE.txt": "/React-Sample/static/js/2.55a1b9d0.chunk.js.LICENSE.txt",
     "static/media/airbus.43b31528.svg": "/React-Sample/static/media/airbus.43b31528.43b31528.svg",
     "static/media/apple.5ef6a897.svg": "/React-Sample/static/media/apple.5ef6a897.5ef6a897.svg",
     "static/media/dekra.da3f480e.svg": "/React-Sample/static/media/dekra.da3f480e.da3f480e.svg",
@@ -30,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.a5c09d7d.js",
     "static/css/2.accba2c8.chunk.css",
-    "static/js/2.cf95ba39.chunk.js",
+    "static/js/2.55a1b9d0.chunk.js",
     "static/css/main.f9fadfa4.chunk.css",
-    "static/js/main.c5dd761b.chunk.js"
+    "static/js/main.58834be2.chunk.js"
   ]
 }

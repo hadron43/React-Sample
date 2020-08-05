@@ -15,9 +15,7 @@ function App() {
         <div className="top" />
         <ScrollToTop />
         <Navbar />
-        <Switch>
-          <Route exact path="/" component={Mentor}></Route>
-        </Switch>
+        <Mentor />
         <Footer />
       </div>
     </Router>
